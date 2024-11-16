@@ -57,16 +57,15 @@ plt.axis('off')
 ### Output:
 
 #### Display the input Image
+![WhatsApp Image 2024-11-16 at 10 46 24 PM](https://github.com/user-attachments/assets/fb5206fb-7df4-46dc-83fa-a5d3806fb8ef)
 
-![image](https://github.com/Leann4468/erosion--dilation/assets/121165979/2ebe9cd7-b72b-44b8-a1e0-ac7aebc8af18)
 
 #### Display the Eroded Image
+![WhatsApp Image 2024-11-16 at 10 46 25 PM](https://github.com/user-attachments/assets/d84ffad2-ef09-42b2-9649-ce70f45f3bb2)
 
-![image](https://github.com/Leann4468/erosion--dilation/assets/121165979/d32b69aa-5004-4f63-8ffa-eeefe4db71b8)
 
 #### Display the Dilated Image
-
-![image](https://github.com/Leann4468/erosion--dilation/assets/121165979/d48d36d7-3621-4065-bc74-7ebf5e03f91b)
+![WhatsApp Image 2024-11-16 at 10 46 26 PM (2)](https://github.com/user-attachments/assets/d740acc5-d5e8-423a-91a2-3388e202271c)
 
 ## Result
 Thus the generated text image is eroded and dilated using python and OpenCV.
